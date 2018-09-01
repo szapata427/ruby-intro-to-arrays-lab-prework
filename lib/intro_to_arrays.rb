@@ -12,3 +12,7 @@ def array_with_two_elements
   array = ["element", "element2"]
   return array
 end
+
+def first_element(array)
+  return array[0]
+end
